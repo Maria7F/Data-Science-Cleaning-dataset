@@ -9,8 +9,7 @@
 #### Data Description:
 * Restaurant inspections for permitted food establishments in NYC. Restaurants are graded on A-F scale with regular visits by city health department.
 Dataset includes address, cuisine description, inspection date, type, action, violation code and description(s).Data covers all of NYC and starts Jan 1, 2010-Aug 29, 2017.
-
-Data was collected by the NYC Department of Health.
+* Data was collected by the NYC Department of Health.
 
 #### Tools:
 * Pandas
