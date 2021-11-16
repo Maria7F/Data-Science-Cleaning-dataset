@@ -33,3 +33,6 @@ The dataset contains ~400,000 Boroughs with 26 features for each, 14 of which ar
 - Plotly Map
 <img src="map.png" width=500>
 
+#### JUPYTER Link:
+[JUPYTER](https://drive.google.com/drive/u/1/folders/1qk71fsVZMSg5jY8G7DyX2RpLi52ttkbg)
+
