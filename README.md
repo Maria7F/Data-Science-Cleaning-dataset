@@ -1,10 +1,9 @@
 # NYC Restaurant Inspections
 #### Question/need:
-* What kind of restaurant cuisines got inspected?
+* What was the most borough got inpected
 * What is the most repeatedly violation that got the restaurant to be inspected?
-* Can you predict restaurants closing?
-* What is the most popular street that got inspected?
-* Are there restaurants in the same building?
+* what is the flow of critical and not critical over the years
+* what is the most violation is repeated
 
 #### Data Description:
 * Restaurant inspections for permitted food establishments in NYC. Restaurants are graded on A-F scale with regular visits by city health department.
@@ -13,7 +12,8 @@ Dataset includes address, cuisine description, inspection date, type, action, vi
 
 #### Tools:
 * Pandas
-* Numpy
+* Geopandas
+* Plotly
 * Seaborn
 * Matplotlib
 
