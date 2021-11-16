@@ -26,10 +26,10 @@ The dataset contains every sustained or not yet adjudicated violation citation f
 
 ## Visualization
 - Line plot 
-<img src="analyze-nyc-inspection-dataset/ERD/DataVisiualizationImg/criticalNotCritical.png" width=500>
+<img src="criticalNotCritical.png" width=500>
 
 - Plotly Map
-<img src="analyze-nyc-inspection-dataset/ERD/DataVisiualizationImg/map.png" width=500>
+<img src="map.png" width=500>
 
 #### JUPYTER Link:
 [JUPYTER](https://drive.google.com/drive/u/1/folders/1qk71fsVZMSg5jY8G7DyX2RpLi52ttkbg)
