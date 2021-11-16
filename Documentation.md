@@ -27,8 +27,9 @@ The dataset contains ~400,000 Boroughs with 26 features for each, 14 of which ar
 - Matplotlib and Seaborn for plotting
 
 ## Visualization
-- Plotly Map
-<img src="mvp_fig.png" width=500>
+- Line plot 
+<img src="critical_notCritical.png" width=500>
 
 - Plotly Map
-![](mvp_fig.png)
+<img src="map.png" width=500>
+
