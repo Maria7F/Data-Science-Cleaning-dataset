@@ -28,7 +28,7 @@ The dataset contains ~400,000 Boroughs with 26 features for each, 14 of which ar
 
 ## Visualization
 - Line plot 
-<img src="DataVisiualizationImg\critical_notCritical.png" width=500>
+<img src="..\critical_notCritical.png" width=500>
 
 - Plotly Map
 <img src="map.png" width=500>
