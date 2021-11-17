@@ -29,7 +29,7 @@ The dataset contains every sustained or not yet adjudicated violation citation f
 
 ## Visualization
 - Line plot 
-<img src="criticalNotCritical.png" width=500>
+<img src="criticalFlag.png" width=500>
 
 - Plotly Map
 <img src="map.png" width=500>
