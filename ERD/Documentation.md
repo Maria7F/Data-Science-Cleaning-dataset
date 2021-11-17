@@ -8,6 +8,9 @@ factors shown based on the outcome of the data where it will show the higher bor
 ## Design
 The dataset contains every sustained or not yet adjudicated violation citation from every full or special program inspection conducted up to three years prior to the most recent inspection for restaurants and college cafeterias in an active status on the RECORD DATE. When an inspection results in more than one violation, values for associated fields are repeated for each additional violation record. Establishments are uniquely identified by their CAMIS (record ID) number.
 
+## Data
+ The dataset contains ~400,000 Boroughs with 26 features for each, 14 of which are categorical, 10 are numeric and 2 are dates. A highlights feature include  latitude/longitude coordinates.
+ 
 ## Algorithms
 
 1. Mapping latitude and longitude to scatter mapbox
