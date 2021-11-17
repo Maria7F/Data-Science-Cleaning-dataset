@@ -19,3 +19,5 @@ Dataset includes address, cuisine description, inspection date, type, action, vi
 
 #### Dataset Link:
 [NYC Restaurant Inspections](https://www.kaggle.com/new-york-city/nyc-inspections?select=DOHMH_New_York_City_Restaurant_Inspection_Results.csv)
+
+[try](file:///Users/mariamf/Downloads/map.html)
