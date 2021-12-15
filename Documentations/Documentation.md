@@ -27,13 +27,3 @@ The dataset contains every sustained or not yet adjudicated violation citation f
 - plotly and geopandas for mapping
 - Matplotlib and Seaborn for plotting
 
-## Visualization
-- Line plot 
-<img src="criticalFlag.png" width=500>
-
-- Plotly Map
-<img src="map.png" width=500>
-
-#### JUPYTER Link:
-[JUPYTER](https://drive.google.com/drive/u/1/folders/1qk71fsVZMSg5jY8G7DyX2RpLi52ttkbg)
-
