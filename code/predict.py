@@ -72,8 +72,8 @@ def show_predict_page():
         prediction = stacked.predict(X)
 
         if prediction == 1:
-            prediction = "Closed"
+            prediction = "Will Close"
         else:
-            prediction = "Not Closing"
+            prediction = "It Will Not Be Closed"
             
-        st.subheader(f"Closing? {prediction}")
+        st.subheader(f"Is the restaurent going to close? \n {prediction}")
